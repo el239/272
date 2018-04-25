@@ -1,0 +1,20 @@
+public class Deck{
+   public static void main (String args[]){
+      int[] cardCount = new int[59];
+      String[] value = {"Ace","2","3","4","5","6","7","8","9","10","Jack","Queen","King","Jester","Wizard"}; 
+      String[] suit = {"spades", "hearts", "clubs", "diamonds"};
+}
+   public String toString(){
+      for (i = 0; i < cardCount; i = i+1)
+           
+   public void shuffleDeck(int){
+      Math.random()
+      
+   public void printDeck(){
+      printf ("%10")
+   
+   public String dealACard(){
+      (cardCount=cardCount-1)
+}
+   
+   public boolean emptyDeck()
